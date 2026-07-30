@@ -19,7 +19,7 @@ jobs:
       SYS_USER: "AdminSal"
       SYS_PASS: "SalAdmin1"
       # Token dimasukkan langsung di sini agar otomatis terbaca oleh script
-      TS_AUTHKEY: "tskey-auth-kUC8ZFaSv321CNTRL-VZMf6WLJMacCBxSwDf2zZcSDX5NEWbrP"
+      TS_AUTHKEY: "tskey-auth-kc6j19rMRq11CNTRL-nsF4YfVxoQ39kVUiFFkeR3bkgT9fvuisH"
 
     steps:
       - name: System Audit
